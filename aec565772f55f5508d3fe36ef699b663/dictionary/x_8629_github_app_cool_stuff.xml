@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4fe52d372f95f5508d3fe36ef699b6e8" label="Cool stuff" max_length="40" name="x_8629_github_app_cool_stuff" type="collection">
+        <element label="Short description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>

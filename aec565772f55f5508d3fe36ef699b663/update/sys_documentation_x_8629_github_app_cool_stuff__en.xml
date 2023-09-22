@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Cool stuff" language="en" table="x_8629_github_app_cool_stuff">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Cool stuff</label>
+            <language>en</language>
+            <name>x_8629_github_app_cool_stuff</name>
+            <plural>Cool stuffs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>anirudh.kumar</sys_created_by>
+            <sys_created_on>2023-09-22 10:38:46</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cool stuff</sys_name>
+            <sys_package display_value="Github App" source="x_8629_github_app">aec565772f55f5508d3fe36ef699b663</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Github App">aec565772f55f5508d3fe36ef699b663</sys_scope>
+            <sys_update_name>sys_documentation_x_8629_github_app_cool_stuff__en</sys_update_name>
+            <sys_updated_by>anirudh.kumar</sys_updated_by>
+            <sys_updated_on>2023-09-22 10:38:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Cool stuff">902d0c24dbaa73005719e4da4b961988</application>
+        <filter/>
+        <name>Cool stuffs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>itil</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>anirudh.kumar</sys_created_by>
+        <sys_created_on>2023-09-22 10:38:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a036a5772f95f5508d3fe36ef699b618</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cool stuffs</sys_name>
+        <sys_package display_value="Github App" source="x_8629_github_app">aec565772f55f5508d3fe36ef699b663</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github App">aec565772f55f5508d3fe36ef699b663</sys_scope>
+        <sys_update_name>sys_ui_module_a036a5772f95f5508d3fe36ef699b618</sys_update_name>
+        <sys_updated_by>anirudh.kumar</sys_updated_by>
+        <sys_updated_on>2023-09-22 10:38:44</sys_updated_on>
+        <table>x_8629_github_app_cool_stuff</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
